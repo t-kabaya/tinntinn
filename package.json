@@ -1,0 +1,14 @@
+{
+  "name": "tinntinn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^2.0.0",
+    "play": "^0.5.0"
+  }
+}
