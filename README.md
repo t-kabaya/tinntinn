@@ -3,7 +3,7 @@ ti-nn は電磁レンジの音を鳴らします。
 他のコマンドと組み合わせて、タスクの終了を検知する目的でお使いください。
 
 ## Install
-npm install tinntinn
+npm install -g tinntinn
 
 ## Usage
 apiから値が帰って来たら電子レンジの音を鳴らす
